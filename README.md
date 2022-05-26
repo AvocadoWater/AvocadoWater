@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @AvocadoWater
-- 👀 I’m interested in learning how to create things using computers.
-- 🌱 I’m currently learning java and completing ctf's.
-- 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me, can you dm on here?
+
